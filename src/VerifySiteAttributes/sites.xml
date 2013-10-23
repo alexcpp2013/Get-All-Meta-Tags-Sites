@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<config>
+  <!-- some options -->
+  <site>http://kpi.ua</site>
+  <site>http://zv.kpi.ua/</site>
+  <site>http://foundry.kpi.ua/</site>
+  <site>http://ahv.kpi.ua/</site>
+  <site>http://kafvp.kpi.ua/</site>
+  <site>http://tor.kpi.ua/</site>
+  <site>http://tef.kpi.ua/apeps.htm</site>
+  <site>http://tm.kpi.ua/</site>
+  <site>http://ae.fea.kpi.ua/main.html</site>
+  <site>http://comsys.kpi.ua/</site>
+  <site>http://cad.edu.kpi.ua/tsoorin/</site>
+</config>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<config>
+  <!-- some options -->
+  <tag>abstract</tag>
+  <tag>author</tag>
+  <tag>content-language</tag>
+  <tag>content-style-type</tag>
+  <tag>content-type</tag>
+  <tag>copyright</tag>
+  <tag>description</tag>
+  <tag>designer</tag>
+  <tag>document-state</tag>
+  <tag>expires</tag>
+  <tag>generator</tag>
+  <tag>google</tag>
+  <tag>google-site-verification</tag>
+  <tag>imagetoolbar</tag>
+  <tag>keywords</tag>
+  <tag>language</tag>
+  <tag>msnbot</tag>
+  <tag>mssmarttagspreventparsing</tag>
+  <tag>pics-label</tag>
+  <tag>pragma</tag>
+  <tag>publisher</tag>
+  <tag>rating</tag>
+  <tag>refresh</tag>
+  <tag>reply-to</tag>
+  <tag>resource-type</tag>
+  <tag>revisit</tag>
+  <tag>revisit-after</tag>
+  <tag>robots</tag>
+  <tag>set-cookie</tag>
+  <tag>subject</tag>
+  <tag>title</tag>
+  <tag>url</tag>
+  <tag>vw96.objecttype</tag>
+  <tag>window-target</tag>
+</config>
